@@ -1,0 +1,1 @@
+export * from './add_sold_product.entity'
